@@ -1,0 +1,40 @@
+body {
+    background-color: aqua;
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    text-align: center;
+    padding: 20px;   
+}
+
+h1{
+    font-size: 2.5rem;
+    margin: 20px;
+    text-transform: uppercase;
+}
+
+ul{
+    list-style-type: circle ;
+    margin: 20px auto;
+    padding: 0;
+    width: 60%;
+    border-bottom: 2px solid rgb(79, 77, 209);
+    padding-bottom: 10px;
+}
+
+h2 {
+    margin: 20px auto;
+    padding: 0px;
+    width: 60%;
+
+}
+
+ul li a {
+    color: rgb(57, 141, 89);
+    text-decoration: none;
+    font-size: 1.2rem;
+}
